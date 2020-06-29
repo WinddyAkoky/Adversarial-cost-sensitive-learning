@@ -1,5 +1,32 @@
 
 The code of paper "Particularly protected class in adversarial learning"
 
+# Fast test 
+
+File ```example.ipynb``` is a simple version to implement this paper. Through it, reader can know the details of implemetation of this paper. 
+
+Moreover, the complete codes are placed in folders ```MNIST```, ```FASHION_MNIST``` and ```cifar```.
+
+------------------------------
+
+```example.ipybn``` 是这篇论文的一个简单实现。通过这份文件，读者可以了解到文章的实现细节。
+
+更详细的代码被放在文件夹```MNIST```, ```FASHION_MNIST``` 和 ```cifar```中.
+
+# MNIST, FASHION MNIST, CIFAR
+
+Since the code structure for each folder is the same, let's just use CIFAR as an example:
+
+1. Run ```Lenet_CIFAR_train.py``` to train a model with normal training.
+2. Run ```Lenet_CIFAR_adv_train.py``` to train a model with adversarial training.
+3. Run ```CSA_cifar.py``` to train some CSA models.
+4. Run ```CSE_cifar.py``` to train some CSE models.
+5. Run ```evaluation.py``` to test the performance of the model.
+
+**Note: Before you run above code, you should change the path to the dataset!**
 
 
+# Todo
+
+1. The code for the MNIST folder is not finished.
+2. More clearer explanation.
