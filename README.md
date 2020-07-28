@@ -1,5 +1,8 @@
 
-The code of paper "Particularly protected class in adversarial learning"
+# The code of paper "Particularly protected class in adversarial learning"
+
+**Note: 1.Before you run above code, you should change the path to the dataset!**
+**2. When runing the code, plase use CPU rather than CUDA. If you want to use CUDA to accelerate runing, it is easy for reader to modify the original codes by modifying a few of lines codes.**
 
 # Fast test 
 
@@ -23,4 +26,3 @@ Since the code structure for each folder is the same, let's just use CIFAR as an
 4. Run ```CSE_cifar.py``` to train some CSE models.
 5. Run ```evaluation.py``` to test the performance of the model.
 
-**Note: Before you run above code, you should change the path to the dataset!**
