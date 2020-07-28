@@ -24,9 +24,3 @@ Since the code structure for each folder is the same, let's just use CIFAR as an
 5. Run ```evaluation.py``` to test the performance of the model.
 
 **Note: Before you run above code, you should change the path to the dataset!**
-
-
-# Todo
-
-1. The code for the MNIST folder is not finished.
-2. More clearer explanation.
