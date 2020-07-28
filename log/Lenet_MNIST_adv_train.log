@@ -1,0 +1,9 @@
+2020-07-28 17:00:53,186 - .\Lenet_MNIST_train_adv.py[line:187] - INFO: ================================
+2020-07-28 17:00:53,187 - .\Lenet_MNIST_train_adv.py[line:188] - INFO: lr: 0.001
+2020-07-28 17:00:53,187 - .\Lenet_MNIST_train_adv.py[line:189] - INFO: epochs:30
+2020-07-28 17:00:53,188 - .\Lenet_MNIST_train_adv.py[line:190] - INFO: c:10
+2020-07-28 17:00:53,188 - .\Lenet_MNIST_train_adv.py[line:191] - INFO: normalize:True
+2020-07-28 17:00:53,188 - .\Lenet_MNIST_train_adv.py[line:192] - INFO: epsilon:0.3
+2020-07-28 17:00:53,189 - .\Lenet_MNIST_train_adv.py[line:193] - INFO: gamma:0.95
+2020-07-28 17:00:53,189 - .\Lenet_MNIST_train_adv.py[line:194] - INFO: batch_size:64
+2020-07-28 17:00:53,221 - .\Lenet_MNIST_train_adv.py[line:103] - INFO: lr:[0.0010526315789473684]
